@@ -92,9 +92,4 @@ Implement automated pipelines using tools like Optuna
 Deploy the best-performing model as an API
 ## License
 
-This project is open-source and available under the MIT License.
-
-
------------------------
-username/ensemble-regression-benchmark.git
-cd ensemble-regression-benchmark
+This project is open-source and available under the MIT mark
