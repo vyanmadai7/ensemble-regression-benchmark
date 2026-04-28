@@ -63,5 +63,38 @@ The models are compared based on their R² scores. Higher values indicate better
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ensemble-regression-benchmark.git
+git cloInstall dependencies:
+```
+```bash
+pip install numpy matplotlib seaborn scikit-learn xgboost lightgbm catboost
+```
+Usage
+
+## Run the script:
+
+python main.py
+
+## The script will:
+
+Train all models
+Perform hyperparameter tuning
+Output best parameters
+Display evaluation metrics
+Generate visualizations
+## Key Insights
+Ensemble methods significantly outperform traditional regression techniques on structured datasets.
+Hyperparameter tuning plays a pivotal role in unlocking model performance.
+Feature importance provides valuable interpretability, revealing which variables exert the most influence on predictions.
+## Future Improvements
+Incorporate cross-validation with more folds for robustness
+Add more regression models for broader comparison
+Implement automated pipelines using tools like Optuna
+Deploy the best-performing model as an API
+## License
+
+This project is open-source and available under the MIT License.
+
+
+-----------------------
+username/ensemble-regression-benchmark.git
 cd ensemble-regression-benchmark
