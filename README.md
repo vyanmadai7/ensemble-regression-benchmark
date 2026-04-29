@@ -8,7 +8,7 @@ Gradient boosting models have become a cornerstone of modern machine learning du
 
 This repository implements:
 
-- Three state-of-the-art ensemble models
+- Three state of the art ensemble models
 - Hyperparameter tuning using GridSearchCV
 - Performance evaluation using Mean Squared Error and R² Score
 - Visual comparison of model performance
