@@ -75,7 +75,6 @@ Usage
 python main.py
 
 ## The script will:
-
 Train all models
 Perform hyperparameter tuning
 Output best parameters
