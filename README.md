@@ -54,11 +54,11 @@ Each model is trained and optimized independently using a predefined parameter g
    - Bar plot comparing R² scores across models
    - Feature importance visualization for XGBoost
 
-## Results
+## Results:
 
 The models are compared based on their R² scores. Higher values indicate better predictive capability. The results are visualized using Seaborn for clarity and interpretability.
 
-## Installation
+## Installation:
 
 Clone the repository:
 
@@ -86,11 +86,11 @@ Ensemble methods significantly outperform traditional regression techniques on s
 Hyperparameter tuning plays a pivotal role in unlocking model performance.
 Feature importance provides valuable interpretability, revealing which variables exert the most influence on predictions.
 
-## Future Improvements
+## Future Improvements:
 Incorporate cross-validation with more folds for robustness
 Add more regression models for broader comparison
 Implement automated pipelines using tools like Optuna
 Deploy the best-performing model as an API
 
-## License
+## License:
 This project is open source and available under the MIT mark
