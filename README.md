@@ -91,6 +91,6 @@ Incorporate cross-validation with more folds for robustness
 Add more regression models for broader comparison
 Implement automated pipelines using tools like Optuna
 Deploy the best-performing model as an API
-## License
 
-This project is open-source and available under the MIT mark
+## License
+This project is open source and available under the MIT mark
