@@ -28,7 +28,7 @@ The target variable represents the median house value.
 
 ## Models Implemented:
 
-- ** XGBoost Regressor **
+- **XGBoost Regressor**
 - **LightGBM Regressor**
 - **CatBoost Regressor**
 
