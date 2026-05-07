@@ -88,7 +88,7 @@ Hyperparameter tuning plays a pivotal role in unlocking model performance.
 Feature importance provides valuable interpretability, revealing which variables exert the most influence on predictions.
 
 ## Future Improvements:
-Incorporate cross-validation with more folds for robustness
+Incorporate cross validation with more folds for robustness
 Add more regression models for broader comparison
 Implement automated pipelines using tools like Optuna
 Deploy the best-performing model as an API
