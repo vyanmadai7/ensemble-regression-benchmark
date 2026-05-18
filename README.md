@@ -41,6 +41,8 @@ The target variable represents the median house value.
 
 Each model is trained and optimized independently using a predefined parameter grid.
 
+--------------------
+
 ## Methodology:
 
 1. Data Loading and Preprocessing  
