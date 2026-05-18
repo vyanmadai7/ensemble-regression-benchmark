@@ -69,6 +69,8 @@ Each model is trained and optimized independently using a predefined parameter g
 
 The models are compared based on their R² scores. Higher values indicate better predictive capability. The results are visualized using Seaborn for clarity and interpretability.
 
+--------------------
+
 ## Installation:
 
 Clone the repository:
