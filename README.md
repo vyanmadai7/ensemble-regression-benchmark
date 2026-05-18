@@ -31,7 +31,7 @@ The project uses the California Housing dataset, which contains information such
 
 The target variable represents the median house value.
 
-----------------------
+------------------------
 
 ## Models Implemented:
 
@@ -41,7 +41,7 @@ The target variable represents the median house value.
 
 Each model is trained and optimized independently using a predefined parameter grid.
 
---------------------
+----------------------
 
 ## Methodology:
 
