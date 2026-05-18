@@ -94,6 +94,8 @@ Output best parameters
 Display evaluation metrics
 Generate visualizations
 
+--------------------
+
 ## Key Insights:
 Ensemble methods significantly outperform traditional regression techniques on structured datasets.
 Hyperparameter tuning plays a pivotal role in unlocking model performance.
