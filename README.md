@@ -31,7 +31,7 @@ The project uses the California Housing dataset, which contains information such
 
 The target variable represents the median house value.
 
---------------------
+----------------------
 
 ## Models Implemented:
 
