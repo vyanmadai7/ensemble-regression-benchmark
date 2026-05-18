@@ -3,6 +3,8 @@
 This project presents a comparative study of three powerful gradient boosting algorithms XGBoost, LightGBM, and CatBoost applied to a real world regression problem.
 <br>The primary objective is to evaluate their predictive performance on the California Housing dataset through systematic hyperparameter optimization and rigorous evaluation metrics.
 
+--------------------
+
 ## Overview:
 
 Gradient boosting models have become a cornerstone of modern machine learning due to their exceptional performance on structured data. However, selecting the most suitable model often requires empirical validation rather than theoretical assumptions.
