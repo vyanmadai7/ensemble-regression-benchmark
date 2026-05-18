@@ -17,6 +17,8 @@ This repository implements:
 - Visual comparison of model performance
 - Feature importance analysis for interpretability
 
+--------------------
+
 ## Dataset:
 
 The project uses the California Housing dataset, which contains information such as:
